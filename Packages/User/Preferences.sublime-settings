@@ -8,7 +8,13 @@
 		".git",
 		".hg",
 		"CVS",
-		"target"
+		"target",
+		"releases",
+		"13.*_*",
+		"14.*_*",
+		"15.*_*",
+		"16.*_*",
+		"17.*_*"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 14,
@@ -16,6 +22,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Gist"
 	],
 	"show_tab_close_buttons": false
 }
