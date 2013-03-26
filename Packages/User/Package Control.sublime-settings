@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Emmet",
 		"Gist",
 		"Package Control"
 	]
